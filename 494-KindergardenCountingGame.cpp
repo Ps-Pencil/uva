@@ -1,3 +1,4 @@
+//AC
 #include<cstdio>
 
 using namespace std;
